@@ -5,4 +5,6 @@
     <color name="colorAccent">#673ab7</color>
     <color name="textColor">#ffcdd2</color>
     <color name="buttonColor">#880e4f</color>
+    <color name="diaryContent">#fff3e0</color>
+
 </resources>
